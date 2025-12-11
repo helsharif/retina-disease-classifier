@@ -30,7 +30,7 @@ Medical Imaging · Ophthalmology · Clinical Decision Support
 
 ## 🛠️ Tech Stack  
 Python · TensorFlow Keras · EfficientNet B models  
-OpenCV · NumPy · Pandas  
+NumPy · Pandas  
 Matplotlib · Plotly  
 
 ---
