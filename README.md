@@ -1,6 +1,13 @@
 # retina-disease-classifier
 TensorFlow-based CNN that classifies retinal images into disease categories to support early detection.
 
+---
+
+🚀 **Live Demo:**  
+https://helsharif-retinal-disease-classifier.hf.space
+
+---
+
 # AI Powered Retinal Disease Detection with Deep Learning and Computer Vision Pipeline
 
 A complete end to end computer vision pipeline for classifying retinal fundus images into four categories — **cataract, diabetic retinopathy, glaucoma, and normal** — using **TensorFlow Keras**, **EfficientNet**, and **transfer learning**.
